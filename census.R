@@ -30,4 +30,5 @@ no_par=function()
   return(new4)
 }
 census=no_par()
+census=census[-c(1,10),]
 census
