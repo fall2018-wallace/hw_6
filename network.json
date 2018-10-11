@@ -46,6 +46,16 @@
             ],
             "source": "merged_data.R",
             "target": "hist.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "hist_pop",
+                    "type": "png"
+                }
+            ],
+            "source": "hist.R",
+            "target": "population.png"
         }
     ],
     "nodes": [
@@ -92,6 +102,6 @@
             "name": "rape.png"
         }
     ],
-    "updated_at": "2018-10-11 01:35:17",
+    "updated_at": "2018-10-11 01:35:43",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
