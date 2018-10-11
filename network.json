@@ -96,6 +96,17 @@
             ],
             "source": "hist.R",
             "target": "rape.png"
+        },
+        {
+            "ports": [
+                {
+                    "input": "merged_data",
+                    "output": "merged_data",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "merged_data.R",
+            "target": "boxplot.R"
         }
     ],
     "nodes": [
@@ -146,6 +157,6 @@
             "name": "boxplot.R"
         }
     ],
-    "updated_at": "2018-10-11 01:41:09",
+    "updated_at": "2018-10-11 01:41:34",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
