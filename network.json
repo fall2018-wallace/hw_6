@@ -158,6 +158,16 @@
             ],
             "source": "murder_rate.R",
             "target": "murders_per_state2.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "murders_per_state3",
+                    "type": "png"
+                }
+            ],
+            "source": "murder_rate.R",
+            "target": "murders_per_state3.png"
         }
     ],
     "nodes": [
@@ -234,6 +244,6 @@
             "name": "popover18_state3.png"
         }
     ],
-    "updated_at": "2018-10-11 02:45:19",
+    "updated_at": "2018-10-11 02:45:33",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
