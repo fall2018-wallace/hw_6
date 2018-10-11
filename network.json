@@ -77,7 +77,7 @@
             "task_status": "in progress"
         },
         {
-            "name": "Pop.png"
+            "name": "population.png"
         },
         {
             "name": "murder.png"
@@ -86,6 +86,6 @@
             "name": "assault.png"
         }
     ],
-    "updated_at": "2018-10-11 01:34:48",
+    "updated_at": "2018-10-11 01:35:00",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
