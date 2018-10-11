@@ -8,3 +8,5 @@ hist_urbanpop=ggplot(merged_data,aes(x=UrbanPop))+geom_histogram(bins=50,color="
 hist_rapeggplot(merged_data,aes(x=Rape))+geom_histogram(bins=50,color="black", fill="black")
 
 hist_pop
+hist_murder
+hist_assault
