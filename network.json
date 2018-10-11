@@ -38,10 +38,12 @@
             "task_status": "in progress"
         },
         {
+            "assigned_to": "sim96",
             "desc": "",
-            "name": "merged_data.R"
+            "name": "merged_data.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-11 00:20:48",
+    "updated_at": "2018-10-11 00:23:36",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
