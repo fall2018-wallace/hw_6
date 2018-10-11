@@ -50,16 +50,6 @@
         {
             "ports": [
                 {
-                    "output": "hist_population",
-                    "type": "png"
-                }
-            ],
-            "source": "hist.R",
-            "target": "hist_population.png"
-        },
-        {
-            "ports": [
-                {
                     "output": "hist_murder",
                     "type": "png"
                 }
@@ -107,6 +97,16 @@
             ],
             "source": "merged_data.R",
             "target": "boxplot.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "hist_population",
+                    "type": "png"
+                }
+            ],
+            "source": "hist.R",
+            "target": "hist_population.png"
         }
     ],
     "nodes": [
@@ -159,6 +159,6 @@
             "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-10-11 01:44:28",
+    "updated_at": "2018-10-11 01:44:36",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
