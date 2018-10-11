@@ -197,8 +197,12 @@
             "desc": "",
             "name": "bar2_murder.R",
             "task_status": "proposed"
+        },
+        {
+            "desc": "",
+            "name": "percentover18bar2_murder.R"
         }
     ],
-    "updated_at": "2018-10-11 02:03:02",
+    "updated_at": "2018-10-11 02:05:10",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
