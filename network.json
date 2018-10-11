@@ -58,8 +58,12 @@
             "desc": "",
             "name": "merged_data.R",
             "task_status": "in progress"
+        },
+        {
+            "desc": "",
+            "name": "hist.R"
         }
     ],
-    "updated_at": "2018-10-11 00:52:15",
+    "updated_at": "2018-10-11 01:28:58",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
