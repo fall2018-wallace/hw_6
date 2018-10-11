@@ -18,22 +18,21 @@
             "ports": [
                 {
                     "input": "merged_data",
-                    "output": "arrests",
-                    "type": "r_obj"
-                }
-            ],
-            "source": "arrests.R",
-            "target": "merged_data.R"
-        },
-        {
-            "ports": [
-                {
-                    "input": "merged_data",
                     "output": "census",
                     "type": "r_obj"
                 }
             ],
             "source": "census.R",
+            "target": "merged_data.R"
+        },
+        {
+            "ports": [
+                {
+                    "input": "arresrs",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "arrests.R",
             "target": "merged_data.R"
         }
     ],
@@ -57,9 +56,9 @@
             "assigned_to": "sim96",
             "desc": "",
             "name": "merged_data.R",
-            "task_status": "proposed"
+            "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-10-11 00:27:17",
+    "updated_at": "2018-10-11 00:30:01",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
