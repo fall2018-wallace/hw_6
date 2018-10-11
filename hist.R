@@ -15,7 +15,7 @@ hist_urbanpop=ggplot(merged_data,aes(x=UrbanPop))+geom_histogram(bins=5,color="b
 
 #Histogram of rape
 hist_rape=ggplot(merged_data,aes(x=Rape))+geom_histogram(bins=3,color="black", fill="black")
-
+#changing the bin width makes the histograms of the other three variables(Rape, UrbanPop, Assault)
 hist_population
 hist_murder
 hist_assault
