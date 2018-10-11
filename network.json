@@ -267,8 +267,11 @@
         {
             "desc": "",
             "name": "scatter.R"
+        },
+        {
+            "name": "scatter_plot.png"
         }
     ],
-    "updated_at": "2018-10-11 02:47:53",
+    "updated_at": "2018-10-11 02:48:29",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
