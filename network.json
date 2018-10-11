@@ -203,8 +203,11 @@
         },
         {
             "name": "murders_per_state1.png"
+        },
+        {
+            "name": "murders_per_state2.png"
         }
     ],
-    "updated_at": "2018-10-11 02:31:40",
+    "updated_at": "2018-10-11 02:32:52",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
