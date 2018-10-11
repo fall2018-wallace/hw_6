@@ -20,9 +20,6 @@
             "name": "scprc_est_2017_18_pop_res.csv"
         },
         {
-            "name": "plot8346.png"
-        },
-        {
             "assigned_to": "sim96",
             "desc": "",
             "name": "census.R",
@@ -41,6 +38,6 @@
             "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-11 00:23:43",
+    "updated_at": "2018-10-11 00:23:49",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
