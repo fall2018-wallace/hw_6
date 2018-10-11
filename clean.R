@@ -1,4 +1,6 @@
 
+#Reading the csv from the web into a data frame.
+
 df_states <- read.csv("scprc_est_2017_18_pop_res.csv")
 df_states
 
@@ -21,10 +23,11 @@ colnames(new4)=c("Statename","population","popOver18","percentOver18") #Changing
 new4
 
 
-#C.Creating a function with no parameters
+#Creating a function with no parameters
 
 no_par=function()
 {
   return(new4)
 }
 census=no_par()
+census
