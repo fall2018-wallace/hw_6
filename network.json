@@ -183,8 +183,12 @@
         },
         {
             "name": "box_murder.png"
+        },
+        {
+            "desc": "",
+            "name": "bar1_murder.R"
         }
     ],
-    "updated_at": "2018-10-11 01:51:53",
+    "updated_at": "2018-10-11 01:59:39",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
