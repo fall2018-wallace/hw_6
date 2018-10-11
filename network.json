@@ -50,7 +50,7 @@
         {
             "ports": [
                 {
-                    "output": "hist_pop",
+                    "output": "hist_population",
                     "type": "png"
                 }
             ],
@@ -102,6 +102,6 @@
             "name": "rape.png"
         }
     ],
-    "updated_at": "2018-10-11 01:35:43",
+    "updated_at": "2018-10-11 01:36:13",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
