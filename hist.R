@@ -1,5 +1,5 @@
 
-
+library(ggplot)
 
 hist_population=ggplot(merged_data,aes(x=population))+geom_histogram(bins=50,color="black", fill="black")
 hist_murder=ggplot(merged_data,aes(x=Murder))+geom_histogram(bins=50,color="black", fill="blue")
