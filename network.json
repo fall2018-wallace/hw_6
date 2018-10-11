@@ -65,7 +65,7 @@
                 }
             ],
             "source": "hist.R",
-            "target": "murder.png"
+            "target": "hist_murder.png"
         },
         {
             "ports": [
@@ -141,7 +141,7 @@
             "name": "hist_population.png"
         },
         {
-            "name": "murder.png"
+            "name": "hist_murder.png"
         },
         {
             "name": "assault.png"
@@ -159,6 +159,6 @@
             "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-10-11 01:43:55",
+    "updated_at": "2018-10-11 01:44:03",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
