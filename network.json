@@ -189,6 +189,16 @@
             ],
             "source": "merged_data.R",
             "target": "scatter.R"
+        },
+        {
+            "ports": [
+                {
+                    "output": "scatter_plot",
+                    "type": "png"
+                }
+            ],
+            "source": "scatter.R",
+            "target": "scatter_plot.png"
         }
     ],
     "nodes": [
@@ -265,13 +275,15 @@
             "name": "popover18_state3.png"
         },
         {
+            "assigned_to": "sim96",
             "desc": "",
-            "name": "scatter.R"
+            "name": "scatter.R",
+            "task_status": "in progress"
         },
         {
             "name": "scatter_plot.png"
         }
     ],
-    "updated_at": "2018-10-11 02:48:29",
+    "updated_at": "2018-10-11 02:50:06",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
