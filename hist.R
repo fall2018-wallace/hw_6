@@ -1,6 +1,6 @@
 
 library(ggplot2)
-
+options(scipen=999)
 hist_population=ggplot(merged_data,aes(x=population))+geom_histogram(bins=50,color="black", fill="black")
 hist_murder=ggplot(merged_data,aes(x=Murder))+geom_histogram(bins=50,color="black", fill="blue")
 hist_assault=ggplot(merged_data,aes(x= Assault))+geom_histogram(bins=50,color="black", fill="black")
