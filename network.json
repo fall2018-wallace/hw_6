@@ -137,7 +137,7 @@
                 }
             ],
             "source": "merged_data.R",
-            "target": "bar1_murder.R"
+            "target": "murder_rate.R"
         }
     ],
     "nodes": [
@@ -198,10 +198,10 @@
         {
             "assigned_to": "sim96",
             "desc": "",
-            "name": "bar1_murder.R",
+            "name": "murder_rate.R",
             "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-10-11 02:09:02",
+    "updated_at": "2018-10-11 02:09:54",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
