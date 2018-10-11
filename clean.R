@@ -1,2 +1,2 @@
 
-clean_data <- raw_data
+clean_data <- read.csv("scprc_est_2017_18_pop_res.csv")
