@@ -10,6 +10,7 @@ hist_murder=ggplot(merged_data,aes(x=Murder))+geom_histogram(bins=50,color="blac
 #histogram of the assault rate
 hist_assault=ggplot(merged_data,aes(x= Assault))+geom_histogram(bins=50,color="black", fill="black")
 
+#Histogram of the urban population
 hist_urbanpop=ggplot(merged_data,aes(x=UrbanPop))+geom_histogram(bins=50,color="black", fill="black")
 
 hist_rape=ggplot(merged_data,aes(x=Rape))+geom_histogram(bins=50,color="black", fill="black")
