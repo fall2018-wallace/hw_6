@@ -190,13 +190,15 @@
         },
         {
             "desc": "",
-            "name": "bar2_murder.R"
+            "name": "sortbar2_murder.R"
         },
         {
+            "assigned_to": "not assigned",
             "desc": "",
-            "name": "sortbar2_murder.R"
+            "name": "bar2_murder.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-11 02:01:12",
+    "updated_at": "2018-10-11 02:03:02",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
