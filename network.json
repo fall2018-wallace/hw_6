@@ -140,8 +140,12 @@
         },
         {
             "name": "rape.png"
+        },
+        {
+            "desc": "",
+            "name": "boxplot.R"
         }
     ],
-    "updated_at": "2018-10-11 01:37:55",
+    "updated_at": "2018-10-11 01:41:09",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
