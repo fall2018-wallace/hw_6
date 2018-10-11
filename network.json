@@ -157,8 +157,11 @@
             "desc": "",
             "name": "boxplot.R",
             "task_status": "in progress"
+        },
+        {
+            "name": "box_population.png"
         }
     ],
-    "updated_at": "2018-10-11 01:44:36",
+    "updated_at": "2018-10-11 01:48:55",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
