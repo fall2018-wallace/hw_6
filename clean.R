@@ -1,3 +1,3 @@
 
 clean_data <- read.csv("scprc_est_2017_18_pop_res.csv")
-clean_data
+View(clean_data)
