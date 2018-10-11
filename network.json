@@ -200,8 +200,11 @@
             "desc": "",
             "name": "murder_rate.R",
             "task_status": "in progress"
+        },
+        {
+            "name": "murders_per_state1.png"
         }
     ],
-    "updated_at": "2018-10-11 02:27:55",
+    "updated_at": "2018-10-11 02:31:40",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
