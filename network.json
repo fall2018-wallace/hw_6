@@ -148,17 +148,6 @@
                 }
             ],
             "source": "merged_data.R",
-            "target": "sortbar2_murder.R"
-        },
-        {
-            "ports": [
-                {
-                    "input": "merged_data",
-                    "output": "merged_data",
-                    "type": "r_obj"
-                }
-            ],
-            "source": "merged_data.R",
             "target": "bar2_murder.R"
         },
         {
@@ -229,12 +218,10 @@
             "name": "box_murder.png"
         },
         {
+            "assigned_to": "sim96",
             "desc": "",
-            "name": "bar1_murder.R"
-        },
-        {
-            "desc": "",
-            "name": "sortbar2_murder.R"
+            "name": "bar1_murder.R",
+            "task_status": "in progress"
         },
         {
             "assigned_to": "not assigned",
@@ -247,6 +234,6 @@
             "name": "percentover18bar2_murder.R"
         }
     ],
-    "updated_at": "2018-10-11 02:07:02",
+    "updated_at": "2018-10-11 02:08:45",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
