@@ -187,8 +187,12 @@
         {
             "desc": "",
             "name": "bar1_murder.R"
+        },
+        {
+            "desc": "",
+            "name": "bar2_murder.R"
         }
     ],
-    "updated_at": "2018-10-11 01:59:39",
+    "updated_at": "2018-10-11 02:00:39",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
