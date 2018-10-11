@@ -1,13 +1,12 @@
 
 
 
-#Reading the csv from a data frame.
-
-df_states <- read.csv("scprc_est_2017_18_pop_res.csv")
+#Reading the csv from a data frame.df_states <- read.csv("scprc_est_2017_18_pop_res.csv")
 df_states
 
 new1=df_states[,-4]  #new data frame without the "STATE" column
 new1          
+
 new2=new1[-53,]     #Removing the last row from the new data set
 new2
 
