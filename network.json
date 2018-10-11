@@ -56,6 +56,16 @@
             ],
             "source": "hist.R",
             "target": "population.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "hist_murder",
+                    "type": "png"
+                }
+            ],
+            "source": "hist.R",
+            "target": "murder.png"
         }
     ],
     "nodes": [
@@ -102,6 +112,6 @@
             "name": "rape.png"
         }
     ],
-    "updated_at": "2018-10-11 01:36:13",
+    "updated_at": "2018-10-11 01:36:35",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
