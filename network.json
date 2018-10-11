@@ -117,6 +117,16 @@
             ],
             "source": "boxplot.R",
             "target": "box_population.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "box_murder",
+                    "type": "png"
+                }
+            ],
+            "source": "boxplot.R",
+            "target": "box_murder.png"
         }
     ],
     "nodes": [
@@ -175,6 +185,6 @@
             "name": "box_murder.png"
         }
     ],
-    "updated_at": "2018-10-11 01:51:32",
+    "updated_at": "2018-10-11 01:51:53",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
