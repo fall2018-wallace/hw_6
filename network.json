@@ -85,7 +85,7 @@
                 }
             ],
             "source": "hist.R",
-            "target": "urbanpop.png"
+            "target": "hist_urbanpop.png"
         },
         {
             "ports": [
@@ -147,7 +147,7 @@
             "name": "hist_assault.png"
         },
         {
-            "name": "urbanpop.png"
+            "name": "hist_urbanpop.png"
         },
         {
             "name": "rape.png"
@@ -159,6 +159,6 @@
             "task_status": "in progress"
         }
     ],
-    "updated_at": "2018-10-11 01:44:12",
+    "updated_at": "2018-10-11 01:44:21",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
