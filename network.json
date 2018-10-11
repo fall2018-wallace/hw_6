@@ -138,6 +138,17 @@
             ],
             "source": "merged_data.R",
             "target": "bar1_murder.R"
+        },
+        {
+            "ports": [
+                {
+                    "input": "merged_data",
+                    "output": "merged_data",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "merged_data.R",
+            "target": "sortbar2_murder.R"
         }
     ],
     "nodes": [
@@ -214,6 +225,6 @@
             "name": "percentover18bar2_murder.R"
         }
     ],
-    "updated_at": "2018-10-11 02:05:54",
+    "updated_at": "2018-10-11 02:06:15",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
