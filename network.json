@@ -24,6 +24,17 @@
             ],
             "source": "arrests.R",
             "target": "merged_data.R"
+        },
+        {
+            "ports": [
+                {
+                    "input": "merged_data",
+                    "output": "census",
+                    "type": "r_obj"
+                }
+            ],
+            "source": "census.R",
+            "target": "merged_data.R"
         }
     ],
     "nodes": [
@@ -49,6 +60,6 @@
             "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-10-11 00:26:58",
+    "updated_at": "2018-10-11 00:27:17",
     "url": "https://github.com/fall2018-wallace/hw_6"
 }
