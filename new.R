@@ -1,5 +1,5 @@
 
 USArrests
 arrests=USArrests
-View(arrests)
+arrests
 
