@@ -17,11 +17,3 @@ census <- census[-c(1,53,10),]
 colnames(census)=c("statename","population","popOver18","percentOver18") #Changing the names of remaining columns
 census
 
-
-#Creating a function with no parameters
-no_par=function()
-{
-  return(census)
-}
-no_par()
-census
