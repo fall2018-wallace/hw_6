@@ -10,9 +10,9 @@
 df_states=read.csv("scprc_est_2017_18_pop_res.csv")
 census=df_states
 
-census <- census[,-1:-4]
-census <- census[-c(1,53,10),]
-
+census <- census[,-1:-4]  #Removing the first 4 columns
+census <- census[-c(1,53,10),]  #Removing the first, tenth and the last row
+ 
 
 colnames(census)=c("statename","population","popOver18","percentOver18") #Changing the names of remaining columns
 census
