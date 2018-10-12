@@ -1,5 +1,5 @@
 
-merged_data=merge(arrests,census) #merging two datasets from previous two nodes
+merged_data=merge(census,arrests) #merging two datasets from previous two nodes
 
 #renaming the columns of the merged dataset
 colnames(merged_data)=c("statename","population","popover18", "percentover18","Murder","Assault","UrbanPop", "Rape")
